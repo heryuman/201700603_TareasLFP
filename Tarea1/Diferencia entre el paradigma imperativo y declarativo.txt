@@ -1,0 +1,1 @@
+La diferencia entre cada uno de los paradigmas es que en el caso del Imperativo al momento de programar yo le indico a la computadora como y que debe de realizar y en qué secuencia para alcanzar finalmente la solución deseada, mientras la declarativa describe el problema que se quiere solucionar, pero no las instrucciones necesarias para hacerlo
