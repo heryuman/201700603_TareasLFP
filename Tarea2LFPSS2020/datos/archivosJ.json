@@ -1,0 +1,28 @@
+[
+    {
+        "nombre":"Sofy",
+        "Apellido": "Vasquez",
+        "direccion": "Antigua G",
+        "telefono": "78325825"
+    },
+    {
+        "nombre":"Melany",
+        "Apellido": "Rivera",
+        "direccion": "15-87 zona 5 ",
+        "telefono": "4564564"
+    },
+    {
+        "nombre":"Amilcar",
+        "Apellido": "Cutzal",
+        "direccion": "zona 1 comalapa",
+        "telefono": "47852654"
+    },
+    {
+        "nombre":"Antoio",
+        "Apellido": "Morales",
+        "direccion": "chichicastenango",
+        "telefono": "32541245"
+    }
+    
+
+]
